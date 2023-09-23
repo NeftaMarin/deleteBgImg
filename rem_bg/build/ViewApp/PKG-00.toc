@@ -1,0 +1,52 @@
+('D:\\Proyectos\\Repo '
+ 'Python\\CleanBackgImg\\rem_bg\\build\\ViewApp\\ViewApp.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True},
+ [('PYZ-00.pyz',
+   'D:\\Proyectos\\Repo '
+   'Python\\CleanBackgImg\\rem_bg\\build\\ViewApp\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'D:\\Proyectos\\Repo '
+   'Python\\CleanBackgImg\\rem_bg\\build\\ViewApp\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'D:\\Proyectos\\Repo '
+   'Python\\CleanBackgImg\\rem_bg\\build\\ViewApp\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'D:\\Proyectos\\Repo '
+   'Python\\CleanBackgImg\\rem_bg\\build\\ViewApp\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'D:\\Proyectos\\Repo '
+   'Python\\CleanBackgImg\\rem_bg\\build\\ViewApp\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'D:\\Proyectos\\Repo '
+   'Python\\CleanBackgImg\\rem_bg\\build\\ViewApp\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Honor Magic '
+   '14\\.virtualenvs\\CleanBackgImg\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\Honor Magic '
+   '14\\.virtualenvs\\CleanBackgImg\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('ViewApp',
+   'D:\\Proyectos\\Repo Python\\CleanBackgImg\\rem_bg\\ViewApp.py',
+   'PYSOURCE')],
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
